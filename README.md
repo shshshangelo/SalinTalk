@@ -33,10 +33,10 @@ Perfect for **travelers**, **language learners**, and **everyday conversations**
 
 ## 📦 Installation
 
-git clone https://github.com/shshshangelo/salintalk.git
-cd salintalk
-npm install
-npx expo start
+- git clone https://github.com/shshshangelo/salintalk.git
+- cd salintalk
+- npm install
+- npx expo start
 
 ## 🧠 Environment Variables
 
